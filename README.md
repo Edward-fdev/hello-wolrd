@@ -4,4 +4,6 @@ my first repository, not the last
  
  ========
  
- i hope you can see the diffs...
+Until now, I have only learned this courses : https://www.codecademy.com/users/microWhiz14575/achievements
+
+I wish i could do amazing stuffs in the close future.
